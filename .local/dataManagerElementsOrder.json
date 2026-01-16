@@ -12,6 +12,13 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "dtStatistici&Sequence_1",
+        "dtComparatie&Sequence_1",
+        "excelFileExists&Sequence_1",
+        "numRating&Sequence_1",
+        "strRating&Sequence_5",
+        "dtFilmeExtrase&Sequence_1",
+        "lstWriters&Sequence_1",
         "strDirector&Sequence_1",
         "strGen&Sequence_1",
         "strDurata&Sequence_1",
